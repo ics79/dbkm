@@ -1,23 +1,9 @@
-DBKM Daily Backend Manager
-====================
+DBKM Daily Backend Manager 1b2
+==============================
 
-Backend para aplicaciones web con KumbiaPHP con la elegancia de Bootstrap de Twitter.
+Fork basado en https://github.com/argordmel/dbkmDailyBackend para aplicaciones web con KumbiaPHP con la elegancia de Bootstrap de Twitter. Actualizado a la versión 1.0 beta2 de KumbiaPHP
 
 Con el DBKM podrás gestionar de manera rápida y segura los usuarios, perfiles, recursos, menús, y mucho más!.
-
-.. image:: http://soyprogramador.liz.mx/wp-content/uploads/2013/01/image5.png
-
-`Demo <http://dbkm.dailyscript.com.co>`_
--------------------
-
-Usuario: admin
-
-Pass: 123456
-
-Documentación
--------------------
-
-`Guía de inicio rápido <doc/index.rst>`_
 
 Instalación
 -------------------
@@ -74,4 +60,3 @@ Permite optimizar, vaciar el cache, desfragmentar y reparar (si es posible) las 
 Archivos de configuración
 -------------------
 Permite editar los diferentes archivos de configuración del sistema ubicados en la carpeta "config" de la aplicación
-
